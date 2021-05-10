@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap);
+.product{
+margin-top: 20px;
+}
+
+.card-product{
+    margin-top: 30px;
+}
+
+.atas-navbar{
+    background-color: #6610f2;
+    font-family: 'Fjalla One', sans-serif;
+    
+    
+}
